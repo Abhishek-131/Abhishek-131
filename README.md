@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Spotify Clone**
 
-- 👨‍💻 All of my projects are available at [https://abhishekkumar.com](https://abhishekkumar.com)
+- 👨‍💻 All of my projects are available at [https://dotlier.com](https://dotlier.com)
 
 - 📫 How to reach me **abhisheksdot@gmail.com**
 
