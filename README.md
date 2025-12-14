@@ -1,13 +1,14 @@
-<h1 align="left">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="left">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-<strong align="left">
-- 🔭 I’m currently working on **Spotify Clone**
-  
-- 👨‍💻 All of my projects are available at [https://dotlier.com](https://dotlier.com)
-  
-- 📫 How to reach me **abhisheksdot@gmail.com**
-</strong>
+<p align="left">
+
+-  🔭 I’m currently working on <b>Spotify Clone</br>
+
+- 👨‍💻 All of my projects are available at [https://dotlier.com](https://dotlier.com)</br>
+
+- 📫 How to reach me **abhisheksdot@gmail.com** </br>
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -36,7 +37,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek-131&layout=compact&theme=github_dark" 
     alt="Most Used Languages" 
-    width="35%" 
+    width="34.2%" 
   />
 </p>
 
@@ -46,6 +47,10 @@
 <p align="center"> 
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-131&" alt="abhishek-131" />
 </p>
+
+
+
+
 
 
 
