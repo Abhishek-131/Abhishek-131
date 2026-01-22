@@ -3,7 +3,7 @@
 
 <p align="left">
 
--  🔭 I’m currently working on <b>Spotify Clone</br>
+-  🔭 I’m currently working on <b>DSA Preparation</br>
 
 - 👨‍💻 All of my projects are available at [https://dotlier.com](https://dotlier.com)</br>
 
