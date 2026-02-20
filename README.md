@@ -5,8 +5,6 @@
 
 -  🔭 I’m currently working on <b>DSA Preparation</br>
 
-- 👨‍💻 All of my projects are available at [https://dotlier.com](https://dotlier.com)</br>
-
 - 📫 How to reach me **abhisheksdot@gmail.com** </br>
 </p>
 
