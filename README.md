@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left">
@@ -32,6 +32,161 @@
 
 ## 📊 GitHub Stats
 ![GitHub Streak.](https://github-readme-streak-stats.herokuapp.com/?user=abhishek-131&theme=github-dark&cache_seconds=1800)
+
+ -->
+
+
+
+<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
+
+<h3 align="center">
+🚀 Full Stack Developer | MERN Stack Enthusiast | Java Developer
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Java+Programmer;Passionate+Problem+Solver" alt="Typing SVG" />
+</p>
+
+---
+
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 💫 About Me
+
+- 🎓 MCA Student at **MANIT Bhopal**
+- 💻 Passionate about **Full Stack Web Development**
+- 🌱 Currently learning **Spring Boot & Advanced Java**
+- 🔥 Solving **DSA Problems** regularly
+- 🚀 Love building **Real-World Projects**
+- 🎯 Goal: Become a **Software Engineer**
+
+📫 Reach me at: **abhisheksdot@gmail.com**
+
+🌐 Portfolio:  
+🔗 https://abhishek-131.github.io/portfolio/
+
+---
+
+## 🚀 Tech Stack
+
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,c,python" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+</p>
+
+### 🗄️ Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🍅 Tomato - Food Delivery App
+> Full-stack MERN food delivery application with authentication, cart, admin panel, and online payments.
+
+### 🎬 Movie Streaming Platform
+> MERN-based movie platform with trailers, authentication, and responsive UI.
+
+### 🎵 Spotify Clone
+> Music streaming web application inspired by Spotify with custom player controls.
+
+### 🖼️ Text to Image Generator
+> AI-powered image generation application using modern web technologies.
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abhishek-131&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-131&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-131&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Abhishek-131&theme=algolia&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 🔥 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-131&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/abhishekkumar131">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/Abhishek-131">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="mailto:abhisheksdot@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png" width="48"/>
+</a>
+
+</p>
+
+
+---
+
+# 💡 Developer Quote
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+
+<h3 align="center">
+⭐ From <a href="https://github.com/Abhishek-131">Abhishek Kumar</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:0ea5e9&height=120&section=footer"/>
+</h3>
+
+
+---
+
+
+
+
 
 
 
