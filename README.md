@@ -35,7 +35,9 @@
 
  -->
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 
@@ -169,11 +171,6 @@
 </p>
 
 ---
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 
 <h3 align="center">
